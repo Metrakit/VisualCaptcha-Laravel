@@ -29,4 +29,4 @@ composer update
 It's all !
 
 #DEMO
-You have a example here: https://github.com/Metrakit/VisualCaptcha-Laravel/tree/master/example
+You have an example here: https://github.com/Metrakit/VisualCaptcha-Laravel/tree/master/example
