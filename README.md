@@ -30,3 +30,7 @@ It's all !
 
 ##DEMO
 You have an example here: https://github.com/Metrakit/VisualCaptcha-Laravel/tree/master/example
+
+##OFFICIAL WEBSITE
+This library is from VisualCaptcha of EmotionLoop : http://visualcaptcha.net
+I have only adapted it for Laravel 4
