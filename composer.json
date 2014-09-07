@@ -1,0 +1,33 @@
+{
+    "version": "0.0.1",
+    "name": "metrakit/visualcaptcha-laravel",
+    "description": "Laravel library for visualCaptcha. VisualCaptcha is created by EmotionLoop",
+    "keywords": ["captcha", "visualCaptcha", "security", "laravel", "emotionloop"],
+    "homepage": "http://visualcaptcha.net",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "emotionLoop",
+            "email": "hello@emotionloop.com",
+            "homepage": "http://emotionloop.com"
+        },
+        {
+            "name": "Metrakit",
+            "email": "contact@jordane.net",
+            "homepage": "http://jordane.net"
+        }        
+    ],
+    "support": {
+        "issues": "https://github.com/Metrakit/VisualCaptcha-Laravel/issues"
+    },
+    "require": {
+        "php": ">=5.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    },
+    "autoload": {
+        "psr-0": { "visualCaptcha": "src/" }
+    }
+}
