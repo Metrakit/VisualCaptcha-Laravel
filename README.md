@@ -6,7 +6,7 @@ VisualCatpcha library adapted for Laravel
 This package is available on Packagist:
 https://packagist.org/packages/metrakit/visualcaptcha-laravel
 
-#How to install
+##How to install
 
 - Add the package to your composer.json:
 
@@ -28,5 +28,5 @@ composer update
     
 It's all !
 
-#DEMO
+##DEMO
 You have an example here: https://github.com/Metrakit/VisualCaptcha-Laravel/tree/master/example
