@@ -2,7 +2,7 @@
     "version": "0.0.1",
     "name": "metrakit/visualcaptcha-laravel",
     "description": "Laravel library for visualCaptcha. VisualCaptcha is created by EmotionLoop",
-    "keywords": ["captcha", "visualCaptcha", "security", "laravel", "emotionloop"],
+    "keywords": ["laravel", "laravel4", "captcha", "visualCaptcha", "security", "emotionloop"],
     "homepage": "http://visualcaptcha.net",
     "type": "library",
     "license": "MIT",
