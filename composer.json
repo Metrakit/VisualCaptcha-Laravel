@@ -4,7 +4,6 @@
     "description": "Laravel library for visualCaptcha. VisualCaptcha is created by EmotionLoop",
     "keywords": ["laravel", "laravel4", "captcha", "visualCaptcha", "security", "emotionloop"],
     "homepage": "http://visualcaptcha.net",
-    "type": "library",
     "license": "MIT",
     "authors": [
         {
@@ -23,9 +22,6 @@
     },
     "require": {
         "php": ">=5.3"
-    },
-    "require-dev": {
-        "phpunit/phpunit": "*"
     },
     "autoload": {
         "psr-0": { "visualCaptcha": "src/" }
