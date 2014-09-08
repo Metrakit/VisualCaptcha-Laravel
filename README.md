@@ -5,6 +5,8 @@ VisualCatpcha library adapted for Laravel
 
 This package is available on Packagist:
 https://packagist.org/packages/metrakit/visualcaptcha-laravel
+And on Packalyst:
+http://packalyst.com/packages/package/metrakit/visualcaptcha-laravel
 
 ##How to install
 
